@@ -3,6 +3,7 @@ Scope Adventure is Landmark App designed with modern Authentication Feature like
 
 Source Code for the application is too big to be uploaded to Github so I converted it into an Apk file
 
+App was developed with Java, Firebase Database, Android Studio, Google maps Api
 
 ![piclogoscopeadventure](https://user-images.githubusercontent.com/110536745/206639168-2a5d4475-45cd-4e3a-976b-dc6f748c1324.png)
 ![Screenshot_20221129-152514_Scope Adventure](https://user-images.githubusercontent.com/110536745/206638953-36e6fe0e-5d29-4b9a-b9b7-0c7773698c0d.jpg)
